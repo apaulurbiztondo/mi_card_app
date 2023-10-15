@@ -64,7 +64,7 @@ class MyApp extends StatelessWidget {
                     style: TextStyle(
                       color: Colors.teal.shade900,
                       fontFamily: 'Source Sans 3',
-                      fontSize: 20.0,
+                      fontSize: 18.0,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
@@ -85,7 +85,7 @@ class MyApp extends StatelessWidget {
                     style: TextStyle(
                       color: Colors.teal.shade900,
                       fontFamily: 'Source Sans 3',
-                      fontSize: 20.0,
+                      fontSize: 18.0,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
